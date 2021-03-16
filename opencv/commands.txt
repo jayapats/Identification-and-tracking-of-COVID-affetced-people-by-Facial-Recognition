@@ -1,0 +1,4 @@
+DATABASE
+create database opencv;
+use opencv;
+select * from opencv.user;
